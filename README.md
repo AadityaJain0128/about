@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science and more about Artificial Intelligence.
 - 📫 How to reach me on my Mail ID aadityajain0128@gmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: Don't remeber any.
+- ⚡ Fun fact: Don't remember any.
 
 <!---
 AadityaJain0128/AadityaJain0128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
