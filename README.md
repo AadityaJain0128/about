@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aaditya Jain
 - 👀 I’m interested in Programming fun stuff.
 - 🌱 I’m currently learning Data Science and more about Artificial Intelligence.
-- 📫 How to reach me on my Mail ID aadityajain0128@gmail.com
+- 📫 How to reach me - Mail me at aadityajain0128@gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Don't remember any.
 
